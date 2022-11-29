@@ -1,0 +1,9 @@
+ .footer {
+ margin-top: auto;
+background-color: rgb(40, 157, 225);
+padding: 1rem;
+color: white;
+display: flex;
+justify-content: left;
+align-items: center;
+}
